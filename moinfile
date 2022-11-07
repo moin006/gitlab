@@ -19,6 +19,8 @@ def divide(x, y):
     return x / y
 
 
+echo "hello"
+
 print("Select operation.")
 print("1.Add")
 print("2.Subtract")
